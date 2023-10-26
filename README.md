@@ -1,0 +1,2 @@
+# privPol
+Privacy policy
